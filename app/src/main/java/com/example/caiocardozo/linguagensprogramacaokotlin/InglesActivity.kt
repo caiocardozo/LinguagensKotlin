@@ -1,10 +1,9 @@
 package com.example.caiocardozo.linguagensprogramacaokotlin
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.LinearLayout
-import android.widget.TextView
-import java.util.*
+import android.support.v7.app.AppCompatActivity
+import android.widget.ArrayAdapter
+import android.widget.ListView
 
 class InglesActivity : AppCompatActivity() {
 
@@ -13,14 +12,10 @@ class InglesActivity : AppCompatActivity() {
         setContentView(R.layout.activity_ingles)
 
         var inglesArray = resources.getStringArray(R.array.ArrayIngles) as Array
-        var inglesList = Arrays.asList(*inglesArray) as List<String>
 
-        var root: LinearLayout = findViewById(R.id.rootIngles)
-        for (txt in inglesList){
-            var txtObtido = TextView(this)
-            txtObtido.text = txt
-            root.addView(txtObtido)
-        }
+        var adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, inglesArray) as ArrayAdapter<String>
+        var listView: ListView = findViewById(R.id.rootIngles)
+        listView.adapter = adapter
 
     }
 }
