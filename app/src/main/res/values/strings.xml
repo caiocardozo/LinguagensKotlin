@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Linguagens (Kotlin)</string>
+
+    <string name="nomeBrasileiro">Campeonato Brasileiro</string>
+    <string name="nomeIngles">Campeonato Ingles</string>
+    <string name="nomeAlemao">Campeonato Alemao</string>
+    <string name="nomeEspanhol">Campeonato Espanhol</string>
+    <string name="nomeItaliano">Campeonato Italiano</string>
+
+    <string-array name="ArrayBrasileiro">
+        <item>Santos</item>
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Corinthians</item>
+        <item>Flamengo</item>
+        <item>Vasco</item>
+        <item>Fluminense</item>
+        <item>Botafogo</item>
+        <item>Cruzeiro</item>
+        <item>Atletico-MG</item>
+    </string-array>
+
+    <string-array name="ArrayIngles">
+        <item>Chelsea</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>Aston Vila</item>
+        <item>Tottenham</item>
+        <item>Arsenal</item>
+        <item>Waltford</item>
+        <item>Everton</item>
+        <item>West Ham</item>
+    </string-array>
+
+    <string-array name="ArrayAlemao">
+        <item>Bayer de Munique</item>
+        <item>Bayer Leverkusem</item>
+        <item>Borussia Dortmum</item>
+        <item>Shalck e04</item>
+        <item>Hamburgo</item>
+        <item>Colonia</item>
+        <item>Mainz 05</item>
+        <item>Herta Berlin</item>
+        <item>RB Leipzig</item>
+        <item>Freiburg</item>
+    </string-array>
+
+    <string-array name="ArrayEspanhol">
+        <item>Barcelona</item>
+        <item>Real Madri</item>
+        <item>Betis</item>
+        <item>Atletico de Madri</item>
+        <item>Real Sociedad</item>
+        <item>Levante</item>
+        <item>La Corunã</item>
+        <item>Eibar</item>
+        <item>Sevilla</item>
+        <item>Atletico Bilbao</item>
+    </string-array>
+
+    <string-array name="ArrayItaliano">
+        <item>Inter de Milão</item>
+        <item>Milan</item>
+        <item>Roma</item>
+        <item>Juventus</item>
+        <item>Napoli</item>
+        <item>Fiorentina</item>
+        <item>Atalanta</item>
+        <item>Udinese</item>
+        <item>Cagliari</item>
+        <item>Verona</item>
+    </string-array>
+</resources>
