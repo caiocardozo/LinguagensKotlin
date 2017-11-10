@@ -20,6 +20,19 @@
         <item>Atletico-MG</item>
     </string-array>
 
+    <string-array name="ArrayBrasileiroDesc">
+        <item>Estadio Vila Belmiro, 2 campeonatos mundiais, 3 taças libertadores,  2 campeonatos brasileiros,  19 campeonatos paulistas</item>
+        <item>Estadio Morumbi, 3 campeonatos mundiais, 3 taças libertadores,  4 campeonatos brasileiros,  21 campeonatos paulistas</item>
+        <item>Estadio Arena Palmeiras, 1 taças libertadores,  3 campeonatos brasileiros,  21 campeonatos paulistas</item>
+        <item>Estadio Arena Corinthians, 2 campeonatos mundiais, 1 taças libertadores,  3 campeonatos brasileiros,  24 campeonatos paulistas</item>
+        <item>Estadio Maracanã, 2 campeonatos mundiais, 2 taças libertadores,  5 campeonatos brasileiros,  22 campeonatos cariocas</item>
+        <item>Estadio São Januário, 2 campeonatos mundiais, 2 taças libertadores,  5 campeonatos brasileiros,  22 campeonatos cariocas</item>
+        <item>Estadio Maracanã, 3 campeonatos brasileiros,  21 campeonatos cariocas, 1 campeonato brasileiro 3ª divisão</item>
+        <item>Estadio Nilton Santos, 2 campeonatos brasileiros,  13 campeonatos cariocas, 2 torneios rio-são paulo</item>
+        <item>Estadio Mineirão, 1 taças libertadores,  6 campeonatos brasileiros,  17 campeonatos mineiros</item>
+        <item>Estadio Horto, 3 campeonatos brasileiros,  17 campeonatos mineiros, 1 copa sulamericana</item>
+    </string-array>
+
     <string-array name="ArrayIngles">
         <item>Chelsea</item>
         <item>Manchester United</item>
